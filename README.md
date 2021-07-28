@@ -5,7 +5,7 @@ Project created to replicate design made by [Wahib Irawan](https://www.figma.com
 
 ## Demo:
 
-<img src="https://raw.githubusercontent.com/Mosarto/musicplayerapp/main/demo/demo.gif" width="340" height="740" title="Screen Shoot">
+<img src="https://raw.githubusercontent.com/Mosarto/mobilewallet/main/demo/demo.gif" width="340" height="740" title="Screen Shoot">
 
 ## Packages used:
 
